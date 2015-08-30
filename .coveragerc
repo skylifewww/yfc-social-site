@@ -1,0 +1,3 @@
+[run]
+include = yfc-social/*
+omit = *migrations*
